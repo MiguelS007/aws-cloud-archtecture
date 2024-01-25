@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T18:26:22.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zNgjaSlP9x0piCOPTEoA" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T18:27:10.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NtJ8x1vM0rkEF319k4Zt" version="23.0.2" type="github">
   <diagram name="Página-1" id="piJWr1AcvFgD4D81A9JH">
     <mxGraphModel dx="1770" dy="1006" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="lZGmnMIbktZgT56e6jol-45" value="Route 53" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#0000FF;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;horizontal=1;whiteSpace=wrap;html=1;flipV=0;flipH=0;labelPosition=center;spacingTop=2;spacing=5;" vertex="1" parent="lZGmnMIbktZgT56e6jol-40">
           <mxGeometry x="55" y="327" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="lZGmnMIbktZgT56e6jol-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FFFFFF;" edge="1" parent="lZGmnMIbktZgT56e6jol-40" source="lZGmnMIbktZgT56e6jol-12" target="lZGmnMIbktZgT56e6jol-44">
+        <mxCell id="lZGmnMIbktZgT56e6jol-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#FFFFFF;flowAnimation=1;" edge="1" parent="lZGmnMIbktZgT56e6jol-40" source="lZGmnMIbktZgT56e6jol-12" target="lZGmnMIbktZgT56e6jol-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZGmnMIbktZgT56e6jol-12" value="Amazon S3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#0000FF;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;spacingTop=2;" vertex="1" parent="lZGmnMIbktZgT56e6jol-40">
